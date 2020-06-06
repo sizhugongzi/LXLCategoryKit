@@ -1,0 +1,16 @@
+PODS:
+  - LXLCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LXLCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LXLCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXLCategoryKit: 4373e88ee37a4e59261a91c46f7762372f1374cd
+
+PODFILE CHECKSUM: cf94f449d123c610fde69d4bc424c1d0aa38d9e3
+
+COCOAPODS: 1.9.3

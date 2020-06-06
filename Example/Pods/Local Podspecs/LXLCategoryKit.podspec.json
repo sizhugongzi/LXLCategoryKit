@@ -1,0 +1,22 @@
+{
+  "name": "LXLCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LXLCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sizhugongzi/LXLCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sizhugongzi": "sizhugongzi@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/sizhugongzi/LXLCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LXLCategoryKit/Classes/**/*"
+}

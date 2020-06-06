@@ -1,0 +1,6 @@
+framework module LXLCategoryKit {
+  umbrella header "LXLCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
