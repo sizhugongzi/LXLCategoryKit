@@ -13,6 +13,10 @@
 #import "NSArray+Wgarray.h"
 #import "NSString+HUString.h"
 #import "UIAlertController+HuAlert.h"
+#import "TLActionSheet.h"
+#import "TLActionSheetAppearance.h"
+#import "TLAlertView.h"
+#import "TLAlertViewAppearance.h"
 
 FOUNDATION_EXPORT double LXLCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char LXLCategoryKitVersionString[];
